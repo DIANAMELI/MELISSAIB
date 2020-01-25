@@ -3,9 +3,6 @@ Diana Melissa Duran Pasos
 
 
 
- 
-
-
 NOMBRE	¿QUÉ ES?	¿QUÍEN? 	¿CUÁNDO?	¿PARA QUÉ?
 
 
@@ -81,3 +78,6 @@ DOCKER	--Es una tecnología de creación de contenedores que permite la creació
 SPARK	Es un framework de programación para procesamiento de datos distribuidos diseñado para ser rápido y de propósito general. Como su propio nombre indica.	Ha sido desarrollada en el marco del proyecto Apache.
 	Está diseñado para cubrir una amplia gama de cargas de trabajo que previamente requerían sistemas distribuidos diferentes.
 Éstos sistemas incluyen procesamiento batch, algoritmos iterativos, queries interactivas, procesamiento streaming… a menudo empleados todos ellos en un pipeline típico de análisis de datos.
+ 
+
+
